@@ -3,15 +3,15 @@
 
 **Day 1:** Excel
 
-**Day 2:** 
+**Day 2:** Excel (to be added)
 
-**Day 3:**
+**Day 3:** Excel (to be added) 
 
-**Day 4:** 
+**Day 4:** Excel (to be added)
 
-**Day 5:**
+**Day 5:** Excel (to be added)
 
-**Day 6:** 
+**Day 6:** Excel (to be added)
 
 **Day 7:**
 
