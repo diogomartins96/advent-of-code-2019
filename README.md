@@ -1,7 +1,7 @@
 
 # **Advent of Code 2019**
 
-**Day 1:** Excel
+**Day 1:** [Excel](https://github.com/diogomartins96/advent-of-code-2019/blob/master/Day1.xlsx)
 
 **Day 2:** Excel (to be added)
 
