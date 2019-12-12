@@ -1,25 +1,27 @@
 
 # **Advent of Code 2019**
 
-**Day 1:** [Excel](https://github.com/diogomartins96/advent-of-code-2019/blob/master/Day1.xlsx)
+An Excel Adventure..
 
-**Day 2:** Excel (to be added)
+[**Day 1**](https://github.com/diogomartins96/advent-of-code-2019/blob/master/Day1.xlsx)
 
-**Day 3:** Excel (to be added) 
+**Day 2:** (to be added)
 
-**Day 4:** Excel (to be added)
+**Day 3:** (to be added) 
 
-**Day 5:** Excel (to be added)
+**Day 4:** (to be added)
 
-**Day 6:** Excel (to be added)
+**Day 5:** (to be added)
 
-**Day 7:** Excel (to be added)
+**Day 6:** (to be added)
 
-**Day 8:** Excel (to be added)
+**Day 7:** (to be added)
 
-**Day 9:** Excel (to be added)
+**Day 8:** (to be added)
 
-**Day 10:** Excel (to be added) - only part 1
+**Day 9:** (to be added)
+
+**Day 10:** (to be added) - only part 1
 
 **Day 11:**
 
