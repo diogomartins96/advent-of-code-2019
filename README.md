@@ -13,13 +13,13 @@
 
 **Day 6:** Excel (to be added)
 
-**Day 7:**
+**Day 7:** Excel (to be added)
 
-**Day 8:** 
+**Day 8:** Excel (to be added)
 
-**Day 9:**
+**Day 9:** Excel (to be added)
 
-**Day 10:** 
+**Day 10:** Excel (to be added) - only part 1
 
 **Day 11:**
 
