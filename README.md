@@ -3,56 +3,30 @@
 
 An Excel Adventure..
 
-[**Day 1**](https://github.com/diogomartins96/advent-of-code-2019/blob/master/Day1.xlsx)
-
-**Day 2:** (to be added)
-
-**Day 3:** (to be added) 
-
-**Day 4:** (to be added)
-
-**Day 5:** (to be added)
-
-**Day 6:** (to be added)
-
-**Day 7:** (to be added)
-
-**Day 8:** (to be added)
-
-**Day 9:** (to be added)
-
-**Day 10:** (to be added) - only part 1
-
-**Day 11:**
-
-**Day 10:** 
-
-**Day 11:**
-
-**Day 12:** 
-
-**Day 13:**
-
-**Day 14:** 
-
-**Day 15:**
-
-**Day 16:** 
-
-**Day 17:**
-
-**Day 18:** 
-
-**Day 19:**
-
-**Day 20:** 
-
-**Day 21:**
-
-**Day 22:** 
-
-**Day 23:**
-
-**Day 24:** 
-
-**Day 25:**
+| Day  | Status |
+| ---- | ------ |
+| 1 | :star: :star:|
+| 2 | :star: :star:| 
+| 3 | :star: :star:|
+| 4 | :star: :star:| 
+| 5 | :star: :star:|
+| 6 | :star: :star:| 
+| 7 | :star: :star:|
+| 8 | :star: :star:|
+| 9 | :star: :star:|
+| 10 | :star: :star:| 
+| 11 | :skull: |
+| 12 | :star:| 
+| 13 | :star: :star:|
+| 14 | :skull:| 
+| 15 | :star: :star:|
+| 16 | :star: :star:|
+| 17 | :skull:|
+| 18 | :skull:| 
+| 19 | :skull:|
+| 20 | :skull:|
+| 21 | :skull:|
+| 22 | :skull:|
+| 23 | :skull:|
+| 24 | :star: :star:|
+| 25 | :skull:|
